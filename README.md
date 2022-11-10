@@ -4,7 +4,7 @@ Hi 👋 My name is Bruno Carmena
 Full stack Developer
 --------------------
 
-I've been developing for the last two years, initially starting with JavaScript and frameworks (React & React Native), but recently i have been more focused in the backend, especially with C#.
+I've been developing for the last two years, initially starting with JavaScript and frameworks (React & React Native), but recently i have been more focused in the backend, especially with C#. I'm actually pursuing a degree in Software Analysis and Development!
 
 * 🌍  I'm based in Curitiba - PR, Brazil
 * 🖥️  See my portfolio at [Bruno Ricardo Carmena Portfolio](http://https://brunocarmenaportfolio.netlify.app/)
