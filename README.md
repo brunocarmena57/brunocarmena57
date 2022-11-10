@@ -6,12 +6,16 @@ Full stack Developer
 
 I've been developing for the last two years, initially starting with JavaScript and frameworks (React & React Native), but recently i have been more focused in the backend, especially with C#.
 
-*   🌍  I'm based in Curitiba - PR, Brazil
-*   🖥️  See my portfolio at [Bruno Ricardo Carmena Portfolio](http://https://brunocarmenaportfolio.netlify.app/)
-*   ✉️  You can contact me at [brunorcarmena1@gmail.com](mailto:brunorcarmena1@gmail.com)
-*   🧠  I'm learning C#
-*   🤝  I'm open to collaborating on all types of projects!
-*   ⚡  Feel free to contact me.### Skills 
+* 🌍  I'm based in Curitiba - PR, Brazil
+* 🖥️  See my portfolio at [Bruno Ricardo Carmena Portfolio](http://https://brunocarmenaportfolio.netlify.app/)
+* ✉️  You can contact me at [brunorcarmena1@gmail.com](mailto:brunorcarmena1@gmail.com)
+* 🧠  I'm learning C#
+* 🤝  I'm open to collaborating on all types of projects!
+* ⚡  Feel free to contact me.
+
+### Skills
+
+
 <p align="left">
 <a href="https://docs.microsoft.com/en-us/dotnet/csharp/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/csharp-colored.svg" width="36" height="36" alt="C#" /></a>
 <a href="https://www.php.net/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/php-colored.svg" width="36" height="36" alt="PHP" /></a>
@@ -26,19 +30,17 @@ I've been developing for the last two years, initially starting with JavaScript 
 <a href="https://www.mysql.com/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/mysql-colored.svg" width="36" height="36" alt="MySQL" /></a>
 <a href="https://dotnet.microsoft.com/en-us/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/dot-net-colored.svg" width="36" height="36" alt=".NET" /></a>
 <a href="https://www.figma.com/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/figma-colored.svg" width="36" height="36" alt="Figma" /></a>
-
-                    
-                  ### Socials
-                  
-                  
-                <p align="left">
-                          
-                      <a href="https://www.github.com/brunocarmena57" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/github.svg" width="32" height="32" /></a>
-                          
-                      <a href="http://www.instagram.com/bruno.carmena57" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/instagram.svg" width="32" height="32" /></a>
-                          
-                      <a href="https://www.linkedin.com/in/bruno-ricardo-carmena-a6a21a1b1/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/linkedin.svg" width="32" height="32" /></a>
-                          
-                      <a href="https://www.twitter.com/Brunooo111" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/twitter.svg" width="32" height="32" /></a></p>### Badges<a href="https://github.com/brunocarmena57" align="left"><img src="https://github-readme-stats.vercel.app/api/top-langs/?username=brunocarmena57&langs_count=10&title_color=0891b2&text_color=ffffff&icon_color=0891b2&bg_color=1c1917&hide_border=true&locale=en&custom_title=Top%20%Languages" alt="Top Languages" /></a>### Support Me<a
-                  href="https://www.buymeacoffee.com/brunorcarmena"><img src="https://cdn.buymeacoffee.com/buttons/v2/default-yellow.png" width="200" /></a>
 </p>
+
+
+### Socials
+
+<p align="left"> <a href="https://www.github.com/brunocarmena57" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/github.svg" width="32" height="32" /></a> <a href="http://www.instagram.com/bruno.carmena57" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/instagram.svg" width="32" height="32" /></a> <a href="https://www.linkedin.com/in/bruno-ricardo-carmena-a6a21a1b1/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/linkedin.svg" width="32" height="32" /></a> <a href="https://www.twitter.com/Brunooo111" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/twitter.svg" width="32" height="32" /></a></p>
+
+### Badges
+
+<a href="https://github.com/brunocarmena57" align="left"><img src="https://github-readme-stats.vercel.app/api/top-langs/?username=brunocarmena57&langs_count=10&title_color=0891b2&text_color=ffffff&icon_color=0891b2&bg_color=1c1917&hide_border=true&locale=en&custom_title=Top%20%Languages" alt="Top Languages" /></a>
+
+### Support Me
+
+<a href="https://www.buymeacoffee.com/brunorcarmena"><img src="https://cdn.buymeacoffee.com/buttons/v2/default-yellow.png" width="200" /></a>
