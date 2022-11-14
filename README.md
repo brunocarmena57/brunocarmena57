@@ -7,7 +7,7 @@ Full stack Developer
 I've been developing for the last two years, initially starting with JavaScript and frameworks (React & React Native), but recently i have been more focused in the backend, especially with C#. I'm actually pursuing a degree in Software Analysis and Development!
 
 * 🌍  I'm based in Curitiba - PR, Brazil
-* 🖥️  See my portfolio at [Bruno Ricardo Carmena Portfolio](http://https://brunocarmenaportfolio.netlify.app/)
+* 🖥️  See my portfolio at [Bruno Ricardo Carmena Portfolio](https://brunocarmenaportfolio.netlify.app/)
 * ✉️  You can contact me at [brunorcarmena1@gmail.com](mailto:brunorcarmena1@gmail.com)
 * 🧠  I'm learning C#
 * 🤝  I'm open to collaborating on all types of projects!
