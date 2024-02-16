@@ -43,4 +43,4 @@ I've been developing for the last two years, initially starting with JavaScript 
 
 ### Stats
 
-![Bruno GitHub stats](https://github-readme-stats.vercel.app/api?username=brunocarmena57&show_icons=true)  
+![Bruno GitHub stats](https://github-readme-stats.vercel.app/api?username=brunocarmena57&show_icons=true&theme=apprentice)  
